@@ -10,3 +10,9 @@ Available [here](https://drawing-demo-thing.herokuapp.com/).
 ## Features
 
 - backend serving with [Express](https://expressjs.com/)
+
+## Paths
+
+`/` displays all captures  
+`/save/{data}` saves given data to captures  
+`/clear` clears all saves
